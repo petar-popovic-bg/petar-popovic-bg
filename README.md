@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petar-popovic-bg
 - 👀 I’m interested in programming, automation, scripting, system administration
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me petar.popovic.bg@gmail.com
 
